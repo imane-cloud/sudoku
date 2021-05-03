@@ -1,1 +1,2 @@
-# programmer le sudoku a l'aide du langage c
+# sudoku
+programmer le sudoku a l'aide du langage c
